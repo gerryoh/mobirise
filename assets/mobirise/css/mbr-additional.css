@@ -4633,6 +4633,27 @@ body {
 .cid-rX9tP3Qj8E .mbr-section-btn {
   text-align: left;
 }
+.cid-rX9LbLdCKu {
+  background: #ffffff;
+  padding-top: 75px;
+  padding-bottom: 60px;
+}
+.cid-rX9LbLdCKu .image-block {
+  margin: auto;
+}
+.cid-rX9LbLdCKu figcaption {
+  position: relative;
+}
+.cid-rX9LbLdCKu figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rX9LbLdCKu .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rX9Aepzc7r {
   padding-top: 60px;
   padding-bottom: 60px;
